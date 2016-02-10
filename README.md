@@ -1,2 +1,2 @@
-# Vagrant_Space_Game
+# Vagrant
 Using Vagrant to hold a space game
